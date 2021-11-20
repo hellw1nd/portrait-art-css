@@ -5,6 +5,9 @@ body{
 	padding: 0;
 	max-width: 1920px;
 	max-height: 1080px;
+	overflow-y: scroll;
+    width: 100%;
+	position: fixed;
 	font-family: 'Poppins', sans-serif;
 	display: flex;
 	align-items: center;
